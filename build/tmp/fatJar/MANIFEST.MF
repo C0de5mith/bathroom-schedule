@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Bathroom Scheduler
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.github.c0de5mith.bathroom.Main
+
